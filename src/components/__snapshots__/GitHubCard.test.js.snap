@@ -1,0 +1,169 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <img
+    className="card-img-top"
+    src="https://eu-images.contentstack.com/v3/assets/blt949ea8e16e463049/blt93445186c28dee8e/63945e7b10ec6026c7ebc2bb/E1RR80.jpg"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      techG0LD
+    </div>
+    <p
+      className="card-text"
+    >
+      Check out my github account!
+    </p>
+  </div>
+  <div
+    className="list-group-flush list-group"
+    onKeyDown={[Function]}
+  >
+    <div
+      className="list-group-item"
+      data-rr-ui-event-key={null}
+      onClick={[Function]}
+    >
+      I like building front-end
+    </div>
+    <div
+      className="list-group-item"
+      data-rr-ui-event-key={null}
+      onClick={[Function]}
+    >
+      I enjoy back-end
+    </div>
+    <div
+      className="list-group-item"
+      data-rr-ui-event-key={null}
+      onClick={[Function]}
+    >
+      my profession is full-stack
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders a snapshot for github card 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <img
+    className="card-img-top"
+    src="https://eu-images.contentstack.com/v3/assets/blt949ea8e16e463049/blt93445186c28dee8e/63945e7b10ec6026c7ebc2bb/E1RR80.jpg"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      techG0LD
+    </div>
+    <p
+      className="card-text"
+    >
+      Check out my github account!
+    </p>
+  </div>
+  <div
+    className="list-group-flush list-group"
+    onKeyDown={[Function]}
+  >
+    <div
+      className="list-group-item"
+      data-rr-ui-event-key={null}
+      onClick={[Function]}
+    >
+      I like building front-end
+    </div>
+    <div
+      className="list-group-item"
+      data-rr-ui-event-key={null}
+      onClick={[Function]}
+    >
+      I enjoy back-end
+    </div>
+    <div
+      className="list-group-item"
+      data-rr-ui-event-key={null}
+      onClick={[Function]}
+    >
+      my profession is full-stack
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders a snapshot2 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <img
+    className="card-img-top"
+    src="https://eu-images.contentstack.com/v3/assets/blt949ea8e16e463049/blt93445186c28dee8e/63945e7b10ec6026c7ebc2bb/E1RR80.jpg"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      techG0LD
+    </div>
+    <p
+      className="card-text"
+    >
+      Check out my github account!
+    </p>
+  </div>
+  <div
+    className="list-group-flush list-group"
+    onKeyDown={[Function]}
+  >
+    <div
+      className="list-group-item"
+      data-rr-ui-event-key={null}
+      onClick={[Function]}
+    >
+      I like building front-end
+    </div>
+    <div
+      className="list-group-item"
+      data-rr-ui-event-key={null}
+      onClick={[Function]}
+    >
+      I enjoy back-end
+    </div>
+    <div
+      className="list-group-item"
+      data-rr-ui-event-key={null}
+      onClick={[Function]}
+    >
+      my profession is full-stack
+    </div>
+  </div>
+</div>
+`;
